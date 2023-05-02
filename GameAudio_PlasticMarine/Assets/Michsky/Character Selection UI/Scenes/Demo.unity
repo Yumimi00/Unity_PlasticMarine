@@ -1670,7 +1670,7 @@ PrefabInstance:
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: previewIcon
       value: 
-      objectReference: {fileID: 21300000, guid: d4f5c687058d79c4194da45bfeae41d8, type: 3}
+      objectReference: {fileID: 21300000, guid: a2878a2aeb97faf4d8a8203350da3b85, type: 3}
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: characterBio
       value: Omen hunts in the shadows. He renders enemies blind, teleports, across
@@ -1688,7 +1688,7 @@ PrefabInstance:
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: characterIcon
       value: 
-      objectReference: {fileID: 21300000, guid: d4f5c687058d79c4194da45bfeae41d8, type: 3}
+      objectReference: {fileID: 21300000, guid: 4ab92ec297e9fea40b9551a27bcdc426, type: 3}
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: characterInfo
       value: Sardine
@@ -1904,7 +1904,7 @@ PrefabInstance:
     - target: {fileID: 6339321818443117001, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: d4f5c687058d79c4194da45bfeae41d8, type: 3}
+      objectReference: {fileID: 21300000, guid: a2878a2aeb97faf4d8a8203350da3b85, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db429a0172a62464883a13005da79ca7, type: 3}
 --- !u!1 &501422418 stripped
@@ -3211,7 +3211,7 @@ PrefabInstance:
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: previewIcon
       value: 
-      objectReference: {fileID: 21300000, guid: 9790489d576f3854fa018dc49763c3fb, type: 3}
+      objectReference: {fileID: 21300000, guid: aee362074ffd4c84a9d41dd7dc33d933, type: 3}
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: characterBio
       value: Omen hunts in the shadows. He renders enemies blind, teleports, across
@@ -3229,7 +3229,7 @@ PrefabInstance:
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: characterIcon
       value: 
-      objectReference: {fileID: 21300000, guid: 9790489d576f3854fa018dc49763c3fb, type: 3}
+      objectReference: {fileID: 21300000, guid: 4ab92ec297e9fea40b9551a27bcdc426, type: 3}
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: characterInfo
       value: WHALE
@@ -3433,7 +3433,7 @@ PrefabInstance:
     - target: {fileID: 6339321818443117001, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 9790489d576f3854fa018dc49763c3fb, type: 3}
+      objectReference: {fileID: 21300000, guid: aee362074ffd4c84a9d41dd7dc33d933, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db429a0172a62464883a13005da79ca7, type: 3}
 --- !u!1 &812742110 stripped
@@ -4417,7 +4417,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1.78
+  m_Intensity: 1.6
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -6092,7 +6092,7 @@ PrefabInstance:
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: characterIcon
       value: 
-      objectReference: {fileID: 21300000, guid: 9790489d576f3854fa018dc49763c3fb, type: 3}
+      objectReference: {fileID: 21300000, guid: 4ab92ec297e9fea40b9551a27bcdc426, type: 3}
     - target: {fileID: 6339321817677701586, guid: db429a0172a62464883a13005da79ca7, type: 3}
       propertyPath: characterInfo
       value: STINGRAYS
@@ -6377,6 +6377,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ef80e4ae16fd9094394be57356582c6a, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1036329655206321925, guid: ef80e4ae16fd9094394be57356582c6a, type: 3}
+      propertyPath: m_CastShadows
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef80e4ae16fd9094394be57356582c6a, type: 3}
